@@ -1,0 +1,2 @@
+# Spamer
+Gunakan dengan bijak
